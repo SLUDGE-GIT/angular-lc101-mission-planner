@@ -1,0 +1,29 @@
+[33mcommit 5f94a6f5025ab07c151191c3d7bdef4d92e2f435[m[33m ([m[1;36mHEAD -> [m[1;32mstudio-1[m[33m)[m
+Author: Kyle <florez.photo@gmail.com>
+Date:   Mon Jul 27 18:54:19 2020 -0500
+
+    setting up part 1
+
+[33mcommit efe562c3835c8773c6352a37a22bca2c7ff91b48[m[33m ([m[1;31morigin/studio-1[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Blake Mills <welzie@gmail.com>
+Date:   Tue Aug 13 13:24:07 2019 -0500
+
+    removing file
+
+[33mcommit 3f0527b066897930d6a10991b45ef0d9817fc46a[m
+Author: Blake Mills <welzie@gmail.com>
+Date:   Tue Aug 13 13:22:54 2019 -0500
+
+    added place holder
+
+[33mcommit 2d2288d5882960adf09eb178da1b2caf81837a43[m
+Author: Blake Mills <welzie@gmail.com>
+Date:   Tue Aug 13 13:20:44 2019 -0500
+
+    creating empty folder for studio-1
+
+[33mcommit 39a7dd9a0c9b68967664f5d985d65b4f684ea46c[m
+Author: Blake Mills <welzie@gmail.com>
+Date:   Thu Aug 8 14:40:35 2019 -0500
+
+    adding starter files for studio 2
